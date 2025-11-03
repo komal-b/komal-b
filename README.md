@@ -2,7 +2,7 @@
 
 **MS in Computer Science | NYU Tandon** 
 
-**Ex Senior Software Engineer @ Accenture**
+**Ex-Senior Software Engineer @ Accenture**
 
 Currently exploring the world of **AI/ML** – always learning and experimenting!
 
