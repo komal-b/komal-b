@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+there,+I'm+Komal!+👋;MS+in+Computer+Science+@+NYU;Ex-Senior+Engineer+@+Accenture;AI+/+ML+Enthusiast" alt="Typing SVG" />
+
 # Hi, I’m Komal! 👋 
 
 ### MS in Computer Science @ NYU Tandon | Ex-Senior Software Engineer @ Accenture
