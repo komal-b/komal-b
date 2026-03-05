@@ -1,38 +1,67 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/moki25/moki25/master/header.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Komal%20Bagwe&fontSize=70&animation=fadeIn" width="100%" />
 
-  # 👋 Hi, I'm Komal Bagwe
-  ### MS in Computer Science @ NYU Tandon | Ex-Senior Software Engineer @ Accenture
-  **Full-Stack Developer | Distributed Systems & AI/ML Enthusiast**
+  ### 🎓 MS in Computer Science @ NYU Tandon | 💼 Ex-Accenture Senior SE
+  **Architecting Scalable Distributed Systems & Exploring the Future of AI/ML**
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komalbagwe/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://your-portfolio-link.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
   ---
 </div>
 
-### 🛠️ Tech Stack & Expertise
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **Distributed Systems** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) |
-| **Backend & AI** | ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
-| **Cloud & DB** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+### 🔭 Currently Exploring
+- 🤖 **AI/ML:** Implementing Large Language Models (LLMs) and Deep Learning architectures.
+- 🌐 **Distributed Systems:** Researching consensus algorithms and high-throughput data streaming.
+- 🏗️ **System Design:** Refining my approach to cloud-native microservices.
 
 ---
 
-### 🌐 Distributed Systems Focus
-* **Microservices:** Designing resilient architectures using Spring Boot and REST APIs.
-* **Orchestration:** Managing containerized workloads with Docker and Kubernetes.
-* **Data Pipelines:** Building real-time streaming solutions with Apache Kafka and Hadoop.
-* **System Design:** Focusing on scalability, fault tolerance, and high availability.
+### 🛠️ Technical Arsenal
+
+<details open>
+<summary><b>💻 Languages & Core</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>🌐 Distributed Systems & DevOps</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>🧠 Backend & AI/ML</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+</details>
 
 ---
 
-### 🌱 Interests & Hobbies
+### 🌱 Beyond the Code
 * **Cooking 🍳** - My favorite way to decompress after a long coding session.
 * **Movies 🎬** - Science fiction and thrillers are my go-to.
 * **Social 👫** - I love connecting with fellow tech enthusiasts!
 
 ---
 
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/komalbagwe/)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." alt="Quote" />
+</div>
