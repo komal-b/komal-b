@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=200&section=header&text=Hi,%20I'm%20Komal!%20👋&fontSize=70&animation=fadeIn" alt="Header" />
+  <img src="https://raw.githubusercontent.com/moki25/moki25/master/header.gif" width="100%" />
 
+  # 👋 Hi, I'm Komal Bagwe
   ### MS in Computer Science @ NYU Tandon | Ex-Senior Software Engineer @ Accenture
   **Full-Stack Developer | Distributed Systems & AI/ML Enthusiast**
 
