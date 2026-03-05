@@ -1,64 +1,36 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Komal%20Bagwe&fontSize=70&animation=fadeIn" width="100%" />
+  <h1>Hi, I'm Komal Bagwe 👋</h1>
+  <h3>MS in Computer Science @ NYU Tandon | Ex-Senior Software Engineer @ Accenture</h3>
+  <p><b>Full-Stack Developer | Distributed Systems & AI/ML Enthusiast</b></p>
 
-  ### 🎓 MS in Computer Science @ NYU Tandon | 💼 Ex-Accenture Senior SE
-  **Architecting Scalable Distributed Systems & Exploring the Future of AI/ML**
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komalbagwe/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://your-portfolio-link.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/komalbagwe/)
+  
   ---
 </div>
 
 ### 🔭 Currently Exploring
-- 🤖 **AI/ML:** Implementing Large Language Models (LLMs) and Deep Learning architectures.
-- 🌐 **Distributed Systems:** Researching consensus algorithms and high-throughput data streaming.
-- 🏗️ **System Design:** Refining my approach to cloud-native microservices.
+* **AI/ML:** Diving deep into model architecture and intelligent automation.
+* **Distributed Systems:** Building resilient, high-throughput backend systems.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Tech Stack (Full Arsenal)
 
-<details open>
-<summary><b>💻 Languages & Core</b></summary>
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b>🌐 Distributed Systems & DevOps</b></summary>
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b>🧠 Backend & AI/ML</b></summary>
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-</details>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Python`, `Java`, `C++`, `JavaScript`, `TypeScript`, `SQL`, `PHP`, `HTML/CSS`, `Bash (Shell Scripting)` |
+| **Distributed Systems** | `Docker`, `Kubernetes`, `Apache Kafka`, `Hadoop`, `Microservices`, `System Design` |
+| **Frameworks & Tools** | `Spring Boot`, `ReactJS`, `FastAPI`, `Jenkins`, `Git`, `JIRA`, `Selenium`, `PowerMockito`, `Tailwind CSS`, `Hibernate` |
+| **Cloud & Databases** | `AWS`, `Azure`, `GCP`, `PostgreSQL`, `MySQL`, `Oracle`, `MongoDB (NoSQL)`, `Amazon S3` |
+| **Other Skills** | `REST APIs`, `Test Automation`, `Agile`, `Scrum`, `CI/CD`, `SDLC`, `Backend Architecture` |
 
 ---
 
-### 🌱 Beyond the Code
-* **Cooking 🍳** - My favorite way to decompress after a long coding session.
-* **Movies 🎬** - Science fiction and thrillers are my go-to.
-* **Social 👫** - I love connecting with fellow tech enthusiasts!
+### 🌱 Interests & Hobbies
+* **Cooking 🍳** - Experimenting with new recipes is my version of debugging.
+* **Movies 🎬** - Big fan of sci-fi and psychological thrillers.
+* **Social 👫** - Always down for coffee and a chat about tech or life.
+* **Active 🏃‍♀️** - Keeping the momentum going outside of the IDE.
 
 ---
 
