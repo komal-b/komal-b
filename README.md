@@ -10,6 +10,18 @@
   ---
 </div>
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Komal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=komal-b&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komal-b&layout=compact&theme=github_dark&hide_border=true&langs_count=7)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komal-b&theme=github-dark-blue&hide_border=true)
+
+</div>
+
 ### 🛠️ Technical Arsenal
 
 | Category | Tools & Technologies |
