@@ -21,16 +21,16 @@
 ---
 
 ### 🌐 Expertise 
-* **Architecture:** Full-Stack Development, Backend Architecture, System Design.
-* **Core Focus:** Distributed Systems, Microservices, REST APIs.
-* **DevOps:** CI/CD Pipelines, Jenkins, Git, Agile/Scrum (JIRA).
+**Architecture:** Full-Stack Development, Backend Architecture, System Design.
+**Core Focus:** Distributed Systems, Microservices, REST APIs.
+**DevOps:** CI/CD Pipelines, Jenkins, Git, Agile/Scrum (JIRA).
 
 ---
 
 ### 🌱 Interests & Hobbies
-* **Cooking 🍳** - My favorite way to decompress after a long coding session.
-* **Movies 🎬** - Science fiction and thrillers are my go-to.
-* **Social 👫** - I love connecting with fellow tech enthusiasts!
+**Cooking 🍳** - My favorite way to decompress after a long coding session.
+**Movies 🎬** - Science fiction and thrillers are my go-to.
+**Social 👫** - I love connecting with fellow tech enthusiasts!
 
 ---
 
